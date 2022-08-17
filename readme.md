@@ -24,7 +24,7 @@ Further information about the contents of the repository and its creation can be
 ## 4. Data Protection Reference Architecture (DPRA)
 The DPRA is made up of two research artifacts. Further information about the Technical Requirements Repository and the DPRA Diagrams can be found in Chapter 6 of the thesis paper.
 ### 4.1 Technical Requirements Repository
-This document contains three sets of technical requirements for data stores, data flows and processing systems handling private data. The requirements are organized under multiple categories which originate from the Data Protection Goals used as keywords in the Legal Requirements Repository. The last worksheet contains a mapping of the components of the DPRA to the aforementioned categories to visualize which protection goals are addressed by which component.
+This document contains four sets of technical requirements for data stores, data flows, processing systems and external data holders handling private data. The requirements are organized under multiple categories which originate from the data protection goals used as keywords in the Legal Requirements Repository.
 ### 4.2 DPRA Diagrams
 This folder contains the diagrams used for visualizing the components of the Data Protection Reference Architecture and their internal structure. The diagrams have been created using the open source app [draw.io](https://www.draw.io/). We provide two source files (.drawio & .xml), which can be used to edit and export the diagrams to different image formats using the web app or downloadable version. 
 We further provide the original version of all diagrams as PNG and SVG files in the respective sub-folders. 
